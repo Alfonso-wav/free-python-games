@@ -1,0 +1,18 @@
+How can I display the games when not working local?
+
+....
+
+
+import tkinter as tk
+
+root = tk.Tk()
+
+# Add your GUI elements here
+
+# Comment out or remove the following line to run in headless mode
+root.mainloop()
+
+
+????
+....
+
